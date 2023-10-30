@@ -1,8 +1,17 @@
-# Academic-GPT
-A virtual PhD student
+# ALE-GPT
+Accumulate, Learn, Evolve with current.
 
-# Features
+# Learners
+## 1. Scholar
 - Survey topics
-- Write demos
+- Brainstorm
+- Experiments with demos
 - Write papers
 - Interaction & Teach
+
+## 2. Historian
+- Read history
+- Analysis current event
+
+## 3. ?
+- Learn from others' life
