@@ -1,6 +1,8 @@
 # ALE-GPT
 Accumulate, Learn, Evolve with current.
 
+![Alt text](others/resources/bg.png)
+
 # Learners
 ## 1. Scholar
 - Survey topics
