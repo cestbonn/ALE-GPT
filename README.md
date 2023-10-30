@@ -1,2 +1,8 @@
-# SurveyGPT
-Get a survey of any domains with any topics in one day :)
+# Academic-GPT
+a virtual PhD student
+
+# Features
+- Survey topics
+- Write demos
+- Write papers
+- Interaction & Teach
