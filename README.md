@@ -1,5 +1,5 @@
 # Academic-GPT
-a virtual PhD student
+A virtual PhD student
 
 # Features
 - Survey topics
